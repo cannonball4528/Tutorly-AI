@@ -63,4 +63,4 @@ npm run dev
 - If AI or backend fails, robust mock data is shown for demo/testing.
 
 ## Contact
-For questions or support, open an issue or contact the maintainer. 
+For questions or support, open an issue or contact @cannonball4528. 
